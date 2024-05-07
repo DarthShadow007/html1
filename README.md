@@ -1,2 +1,2 @@
 # html1
-First website
+This is my first website it kinda sucks but oh well.
